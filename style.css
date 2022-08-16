@@ -1,7 +1,7 @@
 body{
     padding: 0%;
     margin: 0%;
-    background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(a.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(images/bg.jpg);
     background-size: cover;
 }
 .navi ul li a{
@@ -101,11 +101,6 @@ button:hover{
     height: 60px;
     width: 60px;
     border-radius: 50%;  
-}
-.img:hover{
-    height: 70px;
-    width: 70px;
-    transition:0.6s;
 }
 .but{
     position: absolute;
